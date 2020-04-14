@@ -1,3 +1,13 @@
+# Usage
+sudo ./main -dest=ip/destname -n=num of pings
+
+### Example (with args)
+sudo ./main -dest=www.google.com -n=100
+
+### Example (without args)
+sudo ./main
+by default will run 20 pings to www.google.com
+
 # Cloudflare Internship Application: Systems
 
 ## What is it?
